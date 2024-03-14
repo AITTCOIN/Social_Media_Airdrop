@@ -16,6 +16,9 @@ Social Media Airdrops – 500,000 AITT Giveaway!
 >>> Step 3: Retweet this post & Tag 3 Friends
 
 >>> Step 4: Submit Github issue (Title: Your address, Content: Your retweet link)
+
+>>> Submit here: https://github.com/AITTCOIN/Social_Media_Airdrop/issues
+
 	
 	*Example: https://github.com/AITTCOIN/Social_Media_Airdrop/issues/1
 
